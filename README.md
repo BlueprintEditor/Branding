@@ -1,2 +1,6 @@
-# Branding
-Blueprint's official branding
+# Blueprint Branding
+branding repo
+
+
+## Blueprint Blue
+`#0679d0` - blue
